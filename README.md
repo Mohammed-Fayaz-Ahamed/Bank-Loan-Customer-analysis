@@ -1,7 +1,5 @@
 # Bank-Loan-Customer-analysis
 
-**Project Title: Loan Dataset Analysis and Dashboard Creation**
-
 ### Objective:
 The primary objective of this project is to analyze a loan dataset, derive key performance indicators (KPIs), and build comprehensive dashboards using tools such as Excel, MySQL, Tableau, and PowerBI. The analysis aims to provide insights into various aspects of loan data, enabling informed decision-making.
 
